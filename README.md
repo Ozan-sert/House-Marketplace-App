@@ -1,4 +1,4 @@
-# House Marketplace
+# Realty Marketplace App
 
 Find and list houses for sale or for rent. This is a project made with React / Firebase v9.
 
