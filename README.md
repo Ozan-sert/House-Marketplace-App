@@ -2,7 +2,7 @@
 
 Find and list houses for sale or for rent. This is a project made with React / Firebase v9.
 
-## [Live Demo](https://weather-46qgpvzno-ozan-sert.vercel.app/)
+## [Live Demo](https://realty-market-app.vercel.app/)
 
 ### Technologies Used 
 
